@@ -1,0 +1,16 @@
+C:\Users\charisse ann ramirez\source\repos\Borrowers\bin\Debug\Borrowers.exe.config
+C:\Users\charisse ann ramirez\source\repos\Borrowers\bin\Debug\Borrowers.exe
+C:\Users\charisse ann ramirez\source\repos\Borrowers\bin\Debug\Borrowers.pdb
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.csproj.AssemblyReference.cache
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.csproj.SuggestedBindingRedirects.cache
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Borrowbook.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Form1.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Mainform.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Properties.Resources.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.csproj.GenerateResource.cache
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.csproj.CoreCompileInputs.cache
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.exe
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.pdb
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.List.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Return.resources
+C:\Users\charisse ann ramirez\source\repos\Borrowers\obj\Debug\Borrowers.Report.resources
